@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Vivek 👋
+
+Consultant by day, tinkerer in my spare time.
+
+The projects here are hobby projects, built for my own use and shared in case
+they're useful to someone else.
 
 <!--
 **vivekmtk/vivekmtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
